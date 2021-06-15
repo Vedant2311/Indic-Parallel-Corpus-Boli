@@ -1,0 +1,1109 @@
+as-bn
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-bn/train.as
+Starting Normalization
+Normalization Done for Language as
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-bn/train.bn
+Starting Normalization
+Normalization Done for Language bn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+as-en
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-en/train.as
+Starting Normalization
+Normalization Done for Language as
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Running Moses for English
+as-gu
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-gu/train.as
+Starting Normalization
+Normalization Done for Language as
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-gu/train.gu
+Starting Normalization
+Normalization Done for Language gu
+Starting Tokenization
+Deleting Temp Files.
+Done.
+as-hi
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-hi/train.as
+Starting Normalization
+Normalization Done for Language as
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-hi/train.hi
+Starting Normalization
+Normalization Done for Language hi
+Starting Tokenization
+Deleting Temp Files.
+Done.
+as-kn
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-kn/train.as
+Starting Normalization
+Normalization Done for Language as
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-kn/train.kn
+Starting Normalization
+Normalization Done for Language kn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+as-ml
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-ml/train.as
+Starting Normalization
+Normalization Done for Language as
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-ml/train.ml
+Starting Normalization
+Normalization Done for Language ml
+Starting Tokenization
+Deleting Temp Files.
+Done.
+as-mni
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-mni/train.as
+Starting Normalization
+Normalization Done for Language as
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-mni/train.mni
+Starting Normalization
+Error in Normalization for language mP
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.mni
+as-mr
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-mr/train.as
+Starting Normalization
+Normalization Done for Language as
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-mr/train.mr
+Starting Normalization
+Normalization Done for Language mr
+Starting Tokenization
+Deleting Temp Files.
+Done.
+as-or
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-or/train.as
+Starting Normalization
+Normalization Done for Language as
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-or/train.or
+Starting Normalization
+Normalization Done for Language or
+Starting Tokenization
+Deleting Temp Files.
+Done.
+as-pa
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-pa/train.as
+Starting Normalization
+Normalization Done for Language as
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-pa/train.pa
+Starting Normalization
+Normalization Done for Language pa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+as-sa
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-sa/train.as
+Starting Normalization
+Normalization Done for Language as
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-sa/train.sa
+Starting Normalization
+Normalization Done for Language sa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+as-ta
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-ta/train.as
+Starting Normalization
+Normalization Done for Language as
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-ta/train.ta
+Starting Normalization
+Normalization Done for Language ta
+Starting Tokenization
+Deleting Temp Files.
+Done.
+as-te
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-te/train.as
+Starting Normalization
+Normalization Done for Language as
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-te/train.te
+Starting Normalization
+Normalization Done for Language te
+Starting Tokenization
+Deleting Temp Files.
+Done.
+as-ur
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-ur/train.as
+Starting Normalization
+Normalization Done for Language as
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/as-ur/train.ur
+Starting Normalization
+Error in Normalization for language ur
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.ur
+bn-en
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-en/train.bn
+Starting Normalization
+Normalization Done for Language bn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Running Moses for English
+bn-gu
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-gu/train.bn
+Starting Normalization
+Normalization Done for Language bn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-gu/train.gu
+Starting Normalization
+Normalization Done for Language gu
+Starting Tokenization
+Deleting Temp Files.
+Done.
+bn-hi
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-hi/train.bn
+Starting Normalization
+Normalization Done for Language bn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-hi/train.hi
+Starting Normalization
+Normalization Done for Language hi
+Starting Tokenization
+Deleting Temp Files.
+Done.
+bn-kn
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-kn/train.bn
+Starting Normalization
+Normalization Done for Language bn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-kn/train.kn
+Starting Normalization
+Normalization Done for Language kn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+bn-ml
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-ml/train.bn
+Starting Normalization
+Normalization Done for Language bn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-ml/train.ml
+Starting Normalization
+Normalization Done for Language ml
+Starting Tokenization
+Deleting Temp Files.
+Done.
+bn-mni
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-mni/train.bn
+Starting Normalization
+Normalization Done for Language bn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-mni/train.mni
+Starting Normalization
+Error in Normalization for language mP
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.mni
+bn-mr
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-mr/train.bn
+Starting Normalization
+Normalization Done for Language bn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-mr/train.mr
+Starting Normalization
+Normalization Done for Language mr
+Starting Tokenization
+Deleting Temp Files.
+Done.
+bn-or
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-or/train.bn
+Starting Normalization
+Normalization Done for Language bn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-or/train.or
+Starting Normalization
+Normalization Done for Language or
+Starting Tokenization
+Deleting Temp Files.
+Done.
+bn-pa
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-pa/train.bn
+Starting Normalization
+Normalization Done for Language bn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-pa/train.pa
+Starting Normalization
+Normalization Done for Language pa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+bn-sa
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-sa/train.bn
+Starting Normalization
+Normalization Done for Language bn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-sa/train.sa
+Starting Normalization
+Normalization Done for Language sa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+bn-ta
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-ta/train.bn
+Starting Normalization
+Normalization Done for Language bn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-ta/train.ta
+Starting Normalization
+Normalization Done for Language ta
+Starting Tokenization
+Deleting Temp Files.
+Done.
+bn-te
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-te/train.bn
+Starting Normalization
+Normalization Done for Language bn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-te/train.te
+Starting Normalization
+Normalization Done for Language te
+Starting Tokenization
+Deleting Temp Files.
+Done.
+bn-ur
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-ur/train.bn
+Starting Normalization
+Normalization Done for Language bn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/bn-ur/train.ur
+Starting Normalization
+Error in Normalization for language ur
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.ur
+en-gu
+Running Moses for English
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/en-gu/train.gu
+Starting Normalization
+Normalization Done for Language gu
+Starting Tokenization
+Deleting Temp Files.
+Done.
+en-hi
+Running Moses for English
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/en-hi/train.hi
+Starting Normalization
+Normalization Done for Language hi
+Starting Tokenization
+Deleting Temp Files.
+Done.
+en-kn
+Running Moses for English
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/en-kn/train.kn
+Starting Normalization
+Normalization Done for Language kn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+en-ml
+Running Moses for English
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/en-ml/train.ml
+Starting Normalization
+Normalization Done for Language ml
+Starting Tokenization
+Deleting Temp Files.
+Done.
+en-mni
+Running Moses for English
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/en-mni/train.mni
+Starting Normalization
+Error in Normalization for language mP
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Done.
+en-mr
+Running Moses for English
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/en-mr/train.mr
+Starting Normalization
+Normalization Done for Language mr
+Starting Tokenization
+Deleting Temp Files.
+Done.
+en-or
+Running Moses for English
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/en-or/train.or
+Starting Normalization
+Normalization Done for Language or
+Starting Tokenization
+Deleting Temp Files.
+Done.
+en-pa
+Running Moses for English
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/en-pa/train.pa
+Starting Normalization
+Normalization Done for Language pa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+en-sa
+Running Moses for English
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/en-sa/train.sa
+Starting Normalization
+Normalization Done for Language sa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+en-ta
+Running Moses for English
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/en-ta/train.ta
+Starting Normalization
+Normalization Done for Language ta
+Starting Tokenization
+Deleting Temp Files.
+Done.
+en-te
+Running Moses for English
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/en-te/train.te
+Starting Normalization
+Normalization Done for Language te
+Starting Tokenization
+Deleting Temp Files.
+Done.
+en-ur
+Running Moses for English
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/en-ur/train.ur
+Starting Normalization
+Error in Normalization for language ur
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.ur
+gu-hi
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-hi/train.gu
+Starting Normalization
+Normalization Done for Language gu
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-hi/train.hi
+Starting Normalization
+Normalization Done for Language hi
+Starting Tokenization
+Deleting Temp Files.
+Done.
+gu-kn
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-kn/train.gu
+Starting Normalization
+Normalization Done for Language gu
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-kn/train.kn
+Starting Normalization
+Normalization Done for Language kn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+gu-ml
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-ml/train.gu
+Starting Normalization
+Normalization Done for Language gu
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-ml/train.ml
+Starting Normalization
+Normalization Done for Language ml
+Starting Tokenization
+Deleting Temp Files.
+Done.
+gu-mni
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-mni/train.gu
+Starting Normalization
+Normalization Done for Language gu
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-mni/train.mni
+Starting Normalization
+Error in Normalization for language mP
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.mni
+gu-mr
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-mr/train.gu
+Starting Normalization
+Normalization Done for Language gu
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-mr/train.mr
+Starting Normalization
+Normalization Done for Language mr
+Starting Tokenization
+Deleting Temp Files.
+Done.
+gu-or
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-or/train.gu
+Starting Normalization
+Normalization Done for Language gu
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-or/train.or
+Starting Normalization
+Normalization Done for Language or
+Starting Tokenization
+Deleting Temp Files.
+Done.
+gu-pa
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-pa/train.gu
+Starting Normalization
+Normalization Done for Language gu
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-pa/train.pa
+Starting Normalization
+Normalization Done for Language pa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+gu-sa
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-sa/train.gu
+Starting Normalization
+Normalization Done for Language gu
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-sa/train.sa
+Starting Normalization
+Normalization Done for Language sa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+gu-ta
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-ta/train.gu
+Starting Normalization
+Normalization Done for Language gu
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-ta/train.ta
+Starting Normalization
+Normalization Done for Language ta
+Starting Tokenization
+Deleting Temp Files.
+Done.
+gu-te
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-te/train.gu
+Starting Normalization
+Normalization Done for Language gu
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-te/train.te
+Starting Normalization
+Normalization Done for Language te
+Starting Tokenization
+Deleting Temp Files.
+Done.
+gu-ur
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-ur/train.gu
+Starting Normalization
+Normalization Done for Language gu
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/gu-ur/train.ur
+Starting Normalization
+Error in Normalization for language ur
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.ur
+hi-kn
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-kn/train.hi
+Starting Normalization
+Normalization Done for Language hi
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-kn/train.kn
+Starting Normalization
+Normalization Done for Language kn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+hi-ml
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-ml/train.hi
+Starting Normalization
+Normalization Done for Language hi
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-ml/train.ml
+Starting Normalization
+Normalization Done for Language ml
+Starting Tokenization
+Deleting Temp Files.
+Done.
+hi-mni
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-mni/train.hi
+Starting Normalization
+Normalization Done for Language hi
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-mni/train.mni
+Starting Normalization
+Error in Normalization for language mP
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.mni
+hi-mr
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-mr/train.hi
+Starting Normalization
+Normalization Done for Language hi
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-mr/train.mr
+Starting Normalization
+Normalization Done for Language mr
+Starting Tokenization
+Deleting Temp Files.
+Done.
+hi-or
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-or/train.hi
+Starting Normalization
+Normalization Done for Language hi
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-or/train.or
+Starting Normalization
+Normalization Done for Language or
+Starting Tokenization
+Deleting Temp Files.
+Done.
+hi-pa
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-pa/train.hi
+Starting Normalization
+Normalization Done for Language hi
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-pa/train.pa
+Starting Normalization
+Normalization Done for Language pa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+hi-sa
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-sa/train.hi
+Starting Normalization
+Normalization Done for Language hi
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-sa/train.sa
+Starting Normalization
+Normalization Done for Language sa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+hi-ta
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-ta/train.hi
+Starting Normalization
+Normalization Done for Language hi
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-ta/train.ta
+Starting Normalization
+Normalization Done for Language ta
+Starting Tokenization
+Deleting Temp Files.
+Done.
+hi-te
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-te/train.hi
+Starting Normalization
+Normalization Done for Language hi
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-te/train.te
+Starting Normalization
+Normalization Done for Language te
+Starting Tokenization
+Deleting Temp Files.
+Done.
+hi-ur
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-ur/train.hi
+Starting Normalization
+Normalization Done for Language hi
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/hi-ur/train.ur
+Starting Normalization
+Error in Normalization for language ur
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.ur
+kn-ml
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-ml/train.kn
+Starting Normalization
+Normalization Done for Language kn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-ml/train.ml
+Starting Normalization
+Normalization Done for Language ml
+Starting Tokenization
+Deleting Temp Files.
+Done.
+kn-mni
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-mni/train.kn
+Starting Normalization
+Normalization Done for Language kn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-mni/train.mni
+Starting Normalization
+Error in Normalization for language mP
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.mni
+kn-mr
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-mr/train.kn
+Starting Normalization
+Normalization Done for Language kn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-mr/train.mr
+Starting Normalization
+Normalization Done for Language mr
+Starting Tokenization
+Deleting Temp Files.
+Done.
+kn-or
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-or/train.kn
+Starting Normalization
+Normalization Done for Language kn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-or/train.or
+Starting Normalization
+Normalization Done for Language or
+Starting Tokenization
+Deleting Temp Files.
+Done.
+kn-pa
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-pa/train.kn
+Starting Normalization
+Normalization Done for Language kn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-pa/train.pa
+Starting Normalization
+Normalization Done for Language pa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+kn-sa
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-sa/train.kn
+Starting Normalization
+Normalization Done for Language kn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-sa/train.sa
+Starting Normalization
+Normalization Done for Language sa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+kn-ta
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-ta/train.kn
+Starting Normalization
+Normalization Done for Language kn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-ta/train.ta
+Starting Normalization
+Normalization Done for Language ta
+Starting Tokenization
+Deleting Temp Files.
+Done.
+kn-te
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-te/train.kn
+Starting Normalization
+Normalization Done for Language kn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-te/train.te
+Starting Normalization
+Normalization Done for Language te
+Starting Tokenization
+Deleting Temp Files.
+Done.
+kn-ur
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-ur/train.kn
+Starting Normalization
+Normalization Done for Language kn
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/kn-ur/train.ur
+Starting Normalization
+Error in Normalization for language ur
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.ur
+ml-mni
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/ml-mni/train.ml
+Starting Normalization
+Normalization Done for Language ml
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/ml-mni/train.mni
+Starting Normalization
+Error in Normalization for language mP
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.mni
+ml-mr
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/ml-mr/train.ml
+Starting Normalization
+Normalization Done for Language ml
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/ml-mr/train.mr
+Starting Normalization
+Normalization Done for Language mr
+Starting Tokenization
+Deleting Temp Files.
+Done.
+ml-or
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/ml-or/train.ml
+Starting Normalization
+Normalization Done for Language ml
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/ml-or/train.or
+Starting Normalization
+Normalization Done for Language or
+Starting Tokenization
+Deleting Temp Files.
+Done.
+ml-pa
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/ml-pa/train.ml
+Starting Normalization
+Normalization Done for Language ml
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/ml-pa/train.pa
+Starting Normalization
+Normalization Done for Language pa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+ml-sa
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/ml-sa/train.ml
+Starting Normalization
+Normalization Done for Language ml
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/ml-sa/train.sa
+Starting Normalization
+Normalization Done for Language sa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+ml-ta
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/ml-ta/train.ml
+Starting Normalization
+Normalization Done for Language ml
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/ml-ta/train.ta
+Starting Normalization
+Normalization Done for Language ta
+Starting Tokenization
+Deleting Temp Files.
+Done.
+ml-te
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/ml-te/train.ml
+Starting Normalization
+Normalization Done for Language ml
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/ml-te/train.te
+Starting Normalization
+Normalization Done for Language te
+Starting Tokenization
+Deleting Temp Files.
+Done.
+ml-ur
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/ml-ur/train.ml
+Starting Normalization
+Normalization Done for Language ml
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/ml-ur/train.ur
+Starting Normalization
+Error in Normalization for language ur
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.ur
+mni-mr
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mni-mr/train.mni
+Starting Normalization
+Error in Normalization for language mP
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.mni
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mni-mr/train.mr
+Starting Normalization
+Normalization Done for Language mr
+Starting Tokenization
+Deleting Temp Files.
+Done.
+mni-or
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mni-or/train.mni
+Starting Normalization
+Error in Normalization for language mP
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.mni
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mni-or/train.or
+Starting Normalization
+Normalization Done for Language or
+Starting Tokenization
+Deleting Temp Files.
+Done.
+mni-pa
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mni-pa/train.mni
+Starting Normalization
+Error in Normalization for language mP
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.mni
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mni-pa/train.pa
+Starting Normalization
+Normalization Done for Language pa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+mni-sa
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mni-sa/train.mni
+Starting Normalization
+Error in Normalization for language mP
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.mni
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mni-sa/train.sa
+Starting Normalization
+Normalization Done for Language sa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+mni-ta
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mni-ta/train.mni
+Starting Normalization
+Error in Normalization for language mP
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.mni
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mni-ta/train.ta
+Starting Normalization
+Normalization Done for Language ta
+Starting Tokenization
+Deleting Temp Files.
+Done.
+mni-te
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mni-te/train.mni
+Starting Normalization
+Error in Normalization for language mP
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.mni
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mni-te/train.te
+Starting Normalization
+Normalization Done for Language te
+Starting Tokenization
+Deleting Temp Files.
+Done.
+mni-ur
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mni-ur/train.mni
+Starting Normalization
+Error in Normalization for language mP
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.mni
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mni-ur/train.ur
+Starting Normalization
+Error in Normalization for language ur
+Skipping Normalization.
+Starting Tokenization from source
+Deleting Temp Files.
+Number of Lines don't match for Tokensiation output and Input File
+Deleting train.tok.ur
+mr-or
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mr-or/train.mr
+Starting Normalization
+Normalization Done for Language mr
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mr-or/train.or
+Starting Normalization
+Normalization Done for Language or
+Starting Tokenization
+Deleting Temp Files.
+Done.
+mr-pa
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mr-pa/train.mr
+Starting Normalization
+Normalization Done for Language mr
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mr-pa/train.pa
+Starting Normalization
+Normalization Done for Language pa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+mr-sa
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mr-sa/train.mr
+Starting Normalization
+Normalization Done for Language mr
+Starting Tokenization
+Deleting Temp Files.
+Done.
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mr-sa/train.sa
+Starting Normalization
+Normalization Done for Language sa
+Starting Tokenization
+Deleting Temp Files.
+Done.
+mr-ta
+Starting for /scratch/cse/btech/cs1170339/indic_parallel/train_data/mr-ta/train.mr
+Starting Normalization
+Normalization Done for Language mr
+Starting Tokenization

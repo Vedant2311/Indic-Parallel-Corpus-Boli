@@ -1,0 +1,317 @@
+{
+    "as-bn": {
+        "total": 145678
+    },
+    "as-en": {
+        "total": 105696
+    },
+    "as-gu": {
+        "total": 152956
+    },
+    "as-hi": {
+        "total": 119384
+    },
+    "as-kn": {
+        "total": 110503
+    },
+    "as-ml": {
+        "total": 116198
+    },
+    "as-mni": {
+        "total": 29411
+    },
+    "as-mr": {
+        "total": 97710
+    },
+    "as-or": {
+        "total": 49866
+    },
+    "as-pa": {
+        "total": 149082
+    },
+    "as-sa": {
+        "total": 23957
+    },
+    "as-ta": {
+        "total": 104926
+    },
+    "as-te": {
+        "total": 93011
+    },
+    "as-ur": {
+        "total": 81227
+    },
+    "bn-en": {
+        "total": 1709707
+    },
+    "bn-gu": {
+        "total": 417649
+    },
+    "bn-hi": {
+        "total": 538893
+    },
+    "bn-kn": {
+        "total": 368272
+    },
+    "bn-ml": {
+        "total": 510110
+    },
+    "bn-mni": {
+        "total": 31053
+    },
+    "bn-mr": {
+        "total": 385860
+    },
+    "bn-or": {
+        "total": 123588
+    },
+    "bn-pa": {
+        "total": 435952
+    },
+    "bn-sa": {
+        "total": 52932
+    },
+    "bn-ta": {
+        "total": 469466
+    },
+    "bn-te": {
+        "total": 300956
+    },
+    "bn-ur": {
+        "total": 425480
+    },
+    "en-gu": {
+        "total": 537219
+    },
+    "en-hi": {
+        "total": 2775784
+    },
+    "en-kn": {
+        "total": 341178
+    },
+    "en-ml": {
+        "total": 1437061
+    },
+    "en-mni": {
+        "total": 0
+    },
+    "en-mr": {
+        "total": 575882
+    },
+    "en-or": {
+        "total": 179910
+    },
+    "en-pa": {
+        "total": 518744
+    },
+    "en-sa": {
+        "total": 109762
+    },
+    "en-ta": {
+        "total": 1196774
+    },
+    "en-te": {
+        "total": 492293
+    },
+    "en-ur": {
+        "total": 1329931
+    },
+    "gu-hi": {
+        "total": 482376
+    },
+    "gu-kn": {
+        "total": 368610
+    },
+    "gu-ml": {
+        "total": 411804
+    },
+    "gu-mni": {
+        "total": 30954
+    },
+    "gu-mr": {
+        "total": 373192
+    },
+    "gu-or": {
+        "total": 132836
+    },
+    "gu-pa": {
+        "total": 408715
+    },
+    "gu-sa": {
+        "total": 52385
+    },
+    "gu-ta": {
+        "total": 405744
+    },
+    "gu-te": {
+        "total": 289346
+    },
+    "gu-ur": {
+        "total": 344480
+    },
+    "hi-kn": {
+        "total": 421221
+    },
+    "hi-ml": {
+        "total": 525129
+    },
+    "hi-mni": {
+        "total": 30399
+    },
+    "hi-mr": {
+        "total": 479630
+    },
+    "hi-or": {
+        "total": 160935
+    },
+    "hi-pa": {
+        "total": 586047
+    },
+    "hi-sa": {
+        "total": 61341
+    },
+    "hi-ta": {
+        "total": 737976
+    },
+    "hi-te": {
+        "total": 368586
+    },
+    "hi-ur": {
+        "total": 528294
+    },
+    "kn-ml": {
+        "total": 416067
+    },
+    "kn-mni": {
+        "total": 26793
+    },
+    "kn-mr": {
+        "total": 385466
+    },
+    "kn-or": {
+        "total": 76970
+    },
+    "kn-pa": {
+        "total": 360012
+    },
+    "kn-sa": {
+        "total": 38951
+    },
+    "kn-ta": {
+        "total": 394777
+    },
+    "kn-te": {
+        "total": 306154
+    },
+    "kn-ur": {
+        "total": 274340
+    },
+    "ml-mni": {
+        "total": 30650
+    },
+    "ml-mr": {
+        "total": 400525
+    },
+    "ml-or": {
+        "total": 105988
+    },
+    "ml-pa": {
+        "total": 436821
+    },
+    "ml-sa": {
+        "total": 45120
+    },
+    "ml-ta": {
+        "total": 514496
+    },
+    "ml-te": {
+        "total": 316448
+    },
+    "ml-ur": {
+        "total": 420561
+    },
+    "mni-mr": {
+        "total": 28916
+    },
+    "mni-or": {
+        "total": 30881
+    },
+    "mni-pa": {
+        "total": 30243
+    },
+    "mni-sa": {
+        "total": 24337
+    },
+    "mni-ta": {
+        "total": 29150
+    },
+    "mni-te": {
+        "total": 26833
+    },
+    "mni-ur": {
+        "total": 30795
+    },
+    "mr-or": {
+        "total": 125044
+    },
+    "mr-pa": {
+        "total": 394573
+    },
+    "mr-sa": {
+        "total": 39841
+    },
+    "mr-ta": {
+        "total": 407328
+    },
+    "mr-te": {
+        "total": 298841
+    },
+    "mr-ur": {
+        "total": 316876
+    },
+    "or-pa": {
+        "total": 140210
+    },
+    "or-sa": {
+        "total": 43976
+    },
+    "or-ta": {
+        "total": 121787
+    },
+    "or-te": {
+        "total": 86426
+    },
+    "or-ur": {
+        "total": 115891
+    },
+    "pa-sa": {
+        "total": 39748
+    },
+    "pa-ta": {
+        "total": 509829
+    },
+    "pa-te": {
+        "total": 295437
+    },
+    "pa-ur": {
+        "total": 354870
+    },
+    "sa-ta": {
+        "total": 40183
+    },
+    "sa-te": {
+        "total": 37472
+    },
+    "sa-ur": {
+        "total": 42442
+    },
+    "ta-te": {
+        "total": 338223
+    },
+    "ta-ur": {
+        "total": 387201
+    },
+    "te-ur": {
+        "total": 217340
+    }
+}
